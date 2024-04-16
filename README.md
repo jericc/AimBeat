@@ -26,4 +26,4 @@ Progress Tracking: After each session, players are presented with detailed stati
 Continuous Play: Players can choose to repeat the same scenario, try a different one, or adjust their settings for a new challenge, promoting endless replayability.
 
 Termination: Exiting the game is as simple as selecting the quit option from the main menu or during a pause in any training session. The game ensures that all progress is saved before closing, allowing for seamless continuation in future sessions.
-lmk what yall think
+
